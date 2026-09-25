@@ -2,6 +2,16 @@
 
 A curated collection of tools and apps I use in my development workflow.
 
+## 🐻 One-click installer
+
+This repo includes `DevToolkitInstaller.bat` — a simple menu-driven installer for Windows.
+Just download and run it, tick which apps you want, and it installs them for you
+(auto-installs `winget` first if it's missing, and falls back to opening the download
+page in your browser for any app without a package manager entry).
+
+If you don't want to use the installer, no problem — just grab whatever you need
+straight from the table below and install it manually.
+
 ## Tools
 
 | Name | Description | Open Source | Download |
