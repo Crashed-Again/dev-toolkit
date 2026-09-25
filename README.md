@@ -14,8 +14,8 @@ A curated collection of tools and apps I use in my development workflow.
 | XnConvert | Batch image converter/resizer supporting 500+ formats. | ❌ | [xnview.com/en/xnconvert](https://www.xnview.com/en/xnconvert/) |
 | GitKraken | Visual Git client with a clean GUI for managing repos, branches, and commits. | ❌ | [gitkraken.com](https://www.gitkraken.com/git-client) |
 | scrcpy | Mirrors and controls an Android device from a PC via USB/ADB, no root needed. | ✅ | [github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) |
-| Genymotion | Android emulator built for developers/testers, with fast, configurable virtual devices. | ❌ | [genymotion.com](https://www.genymotion.com/) |
-| Blip | Direct peer-to-peer file transfer app, no size limits, no cloud upload step. | ❌ | [blip.net](https://blip.net/) |
+| Blip Transfer | Direct peer-to-peer file transfer app, no size limits, no cloud upload step. Mac/Windows/Android/iOS only — no Linux app, use KDE Connect instead. | ❌ | [blip.net](https://blip.net/) |
+| KDE Connect | Peer-to-peer file transfer and device integration between Linux and Android/other devices — Linux alternative to Blip. | ✅ | [kdeconnect.kde.org](https://kdeconnect.kde.org/download.html) |
 | Android Studio Emulator (AVD) | Official Android emulator bundled with Android Studio, part of the Android SDK tools. | ✅ | [developer.android.com/studio](https://developer.android.com/studio) |
 | Everything | Instant file search for Windows by filename, indexes the whole drive in seconds. | ❌ | [voidtools.com](https://www.voidtools.com/) |
 | Obsidian | Markdown-based note-taking app that stores notes as local files. | ❌ | [obsidian.md](https://obsidian.md/) |
